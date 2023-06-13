@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/budaaaeva/SPA/static/css/main.b723b545.css",
-    "main.js": "/budaaaeva/SPA/static/js/main.8429b4b7.js",
+    "main.js": "/budaaaeva/SPA/static/js/main.a433dd0d.js",
     "index.html": "/budaaaeva/SPA/index.html",
     "main.b723b545.css.map": "/budaaaeva/SPA/static/css/main.b723b545.css.map",
-    "main.8429b4b7.js.map": "/budaaaeva/SPA/static/js/main.8429b4b7.js.map"
+    "main.a433dd0d.js.map": "/budaaaeva/SPA/static/js/main.a433dd0d.js.map"
   },
   "entrypoints": [
     "static/css/main.b723b545.css",
-    "static/js/main.8429b4b7.js"
+    "static/js/main.a433dd0d.js"
   ]
 }
